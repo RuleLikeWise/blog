@@ -14,3 +14,11 @@ social:
 avatar:
   url: /images/avatar.jpeg
   rounded: true
+
+save_scroll: true
+
+symbols_count_time:
+  item_text_total: true
+
+reading_progress:
+  enable: true
