@@ -1,0 +1,16 @@
+scheme: Gemini
+
+footer:
+  since: 2018
+
+menu:
+  tags: /tags/ || tags
+  categories: /categories/ || th
+
+social:
+  GitHub: https://github.com/RuleLikeWise || github
+  E-Mail: mailto:songlian0111@foxmail.com || envelope
+
+avatar:
+  url: /images/avatar.jpeg
+  rounded: true
